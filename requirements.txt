@@ -1,0 +1,6 @@
+Flask==3.0.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+imutils==0.5.4
+Flask-Cors==4.0.0
